@@ -1,2 +1,2 @@
-# management-service
-Repositório para armazenar o projeto de gerenciamento dos serviços
+# Project br.com.mecontrata.management.service/management-service
+
